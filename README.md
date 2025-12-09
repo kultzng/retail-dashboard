@@ -37,7 +37,7 @@ Key visuals include:
 <img width="2223" height="1173" alt="image" src="https://github.com/user-attachments/assets/55051142-24ad-4dd2-9863-6ea767188c5f" />
 
 Example Insights
-- Yogurt is the largest revenue contributor, followed by Ready Meals and Snack Bars.
+- Yogurt is the largest revenue contributor, followed by Milk and Ready Meals.
 - All three regions (PL-South, PL-North, PL-Central) show almost equal revenue contribution (~33% each), indicating balanced market coverage.
 - Strong volume growth over mid-2023 → opportunity for assortment expansion.
 
