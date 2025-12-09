@@ -11,6 +11,7 @@ The dashboard aims to help commercial stakeholders:
 - Track demand trends over time to anticipate seasonal peaks and optimise inventory.
 - Evaluate promotion effectiveness across categories and channels to maximise ROI.
 - Identify price sensitivity by visualising the relationship between price and sales volume.
+
 These insights enable better decision-making for sales strategy, assortment optimisation, pricing, and supply chain planning.
 
 # Business Scenario
@@ -19,12 +20,14 @@ FMCG suppliers often operate across multiple regions and channels, leading to co
 - When and where demand is highest
 - How promotions influence customer buying behaviour
 - Where revenue leaks exist due to out-of-stock risks
+
 This dashboard presents an integrated view of sales data from 2022–2024 to support data-driven planning.
 
 # Target Users & Information Needs
 - Commercial Managers: High-level revenue breakdown, category performance, uplift from promotions
 - Category / Brand Analysts: SKU-level trends, price elasticity, promo uplift % to refine assortment
 - Operations / Supply Teams: Stock availability %, demand trend vs. service level to reduce lost sales
+
 The solution supports both strategic analysis and day-to-day operational monitoring.
 
 # Dashboard Overview & KPIs
