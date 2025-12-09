@@ -57,3 +57,8 @@ Example Insights
 - Promotions drive sales uplift in key categories — but with varying effectiveness.
 - Elasticity visuals highlight categories more price-sensitive than others → critical for pricing strategy.
 - Promo revenue is strongest in Retail and Discount channels → focus investment here.
+
+# Future Enhancements
+- Add advanced price elasticity model
+- Automate regional benchmark comparisons
+- Extend insights using external market data (e.g., demographics, weather)
